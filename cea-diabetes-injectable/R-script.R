@@ -1,6 +1,6 @@
 install.packages("readxl")
 library(readxl)
-data <- read_excel("/Users/guttin/Library/CloudStorage/OneDrive-KarolinskaInstitutet/Medicine/Joe/SIGP/KI/4 Last Semeser/UU RA/R1.xlsx")
+data <- read_excel("file path")
 head(data)
 str(data)
 
