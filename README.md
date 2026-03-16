@@ -1,24 +1,38 @@
 # Health Economics Portfolio
 
-Welcome! I'm a medical doctor and MSc candidate in Health Economics, Policy, and Management at Karolinska Institutet. This portfolio highlights my practical work in cost-effectiveness analysis, public health data, and healthcare quality improvement.
+Welcome. I’m a medical doctor and health economics researcher based in Stockholm, currently working on applied health economics projects at Karolinska Institutet.
 
-Each project includes real or simulated data, visualizations, and insights into my analytical and communication skills.
+This repository contains small projects and analytical exercises demonstrating my work in cost modelling, cost-effectiveness analysis, and healthcare data analysis using R. The aim is to showcase practical approaches to analysing health system data and translating results into insights relevant for healthcare decision-making.
 
----
-
-## 📁 Projects
- see above
+Projects included here use simulated or publicly available data and focus on methodological approaches commonly used in health economics and outcomes research.
 
 ---
 
-## 🧰 Tools & Skills
+## Projects
 
-- R, Excel, Markdown, GitHub
-- Cost-Effectiveness Analysis (CEA)
-- Decision Modeling & HTA
-- Data Visualization
-- Quality Improvement in Healthcare
+Examples of projects included in this repository:
+
+- Cost analysis and modelling exercises using healthcare datasets
+- Cost-effectiveness analysis and simple decision modelling examples
+- Data cleaning and analysis workflows in R
+- Exploratory analysis and visualisation of healthcare data
+- Small analytical projects related to healthcare quality improvement
+
+Each project contains code, short explanations of the analytical approach, and key outputs.
 
 ---
 
-More projects coming soon!
+## Tools and Methods
+
+- R
+- Excel
+- Git & GitHub
+- Cost-effectiveness analysis
+- Decision modelling
+- Health economic evaluation
+- Healthcare data analysis
+- Data visualisation
+
+---
+
+More projects will be added as the portfolio evolves.
